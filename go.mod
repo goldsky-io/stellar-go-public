@@ -1,6 +1,6 @@
 module github.com/stellar/go
 
-go 1.23
+go 1.23.0
 
 require (
 	cloud.google.com/go/firestore v1.15.0 // indirect
@@ -170,7 +170,7 @@ require (
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/oauth2 v0.21.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
